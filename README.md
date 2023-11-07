@@ -18,3 +18,5 @@ Integration of Data:
 Integration with external data sources and APIs to gain access to extra data
 
 A well-designed book search application simplifies the process of discovering and purchasing books, making it a useful tool for both casual readers and book lovers. It offers users a rich, interactive experience that encourages them to explore and participate with the world of books.
+
+Technologies: Java, Spring Boot (Java), Elasticsearch REST API, HTML,CSS,JS(for front-end)

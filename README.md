@@ -9,14 +9,14 @@ A book search application is a digital platform or program that allows users to 
 - Java
 * Spring Boot (Java)
 + Elasticsearch REST API
-* For Front-end: HTML,CSS,JS
+* For Front-end: React
 
 ## Why these technologies?
 
 - Java: Elasticsearch itself is written in Java and it's easier for me to use
 - Spring Boot (Java): It gives an easier, quicker path to set up, configure, and run apps
 - Elasticsearch REST API: It's designed for full-text search, and it's highly scalable and customizable
-- Front-end: HTML,CSS,JS : Ease of use and creativity in desinging the app
+- Front-end: React
 
 ## Rest API Design
 

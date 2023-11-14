@@ -2,7 +2,7 @@
 
 ## Overview:
 
-A book search application is a digital platform or program that allows users to search for and find books based on a variety of criteria such as author, title, genre, keywords, or other characteristics. These programs are frequently used by readers, book aficionados, scholars, and libraries to locate specific books or to browse a large selection of accessible titles. A well-designed book search application simplifies the process of discovering and purchasing books, making it a useful tool for both casual readers and book lovers. It offers users a rich, interactive experience that encourages them to explore and participate with the world of books.
+A book search application is a digital platform or program that allows users to search for and find books based on a variety of criteria such as author, title, genre, year and a small description. These programs are frequently used by readers, book aficionados, scholars, and libraries to locate specific books or to browse a large selection of accessible titles. A well-designed book search application simplifies the process of discovering and purchasing books, making it a useful tool for both casual readers and book lovers. It offers users a rich, interactive experience that encourages them to explore and participate with the world of books.
 
 ## Technologies used: 
 
